@@ -1,4 +1,3 @@
 Euler
 =====
-
-** TODO: Add description **
+ Just trying to play with some elixir
